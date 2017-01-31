@@ -14,7 +14,7 @@ with the Spreadsheet Supplement is provided to help the analytics.
 ## File Notes
 1) Air France Case.pdf &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;: the provided report  
 2) Air France Internet Marketing.doc: project requirement  
-3) Air France Internet Marketing.xls &ensp;: Spreadsheet Supplement  
+3) Air France Internet Marketing.xls&ensp;: Spreadsheet Supplement  
 4) Answers.xls &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;: our solution.   
 
 ## Summary:
