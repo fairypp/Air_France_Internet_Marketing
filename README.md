@@ -16,5 +16,5 @@ with the Spreadsheet Supplement is provided to help the analytics.
 4. Comments are provided on how different publishers perform on key performance indicators.  
 5. 2 metrics (X=Probability of Booking, Y=Cost Per Click) are extracted to create four quadrants to analyze publisher type and assign a corresponding strategy to each publisher.  
 
-
+![alt text][logo]
 [logo]:https://github.com/fairypp/Air_France_Internet_Marketing/blob/master/air_france.PNG
