@@ -6,16 +6,16 @@ with the Spreadsheet Supplement is provided to help the analytics.
 
 ## Project Structure:
 /-------File List  
-&ensp;|&ensp;&ensp;&ensp;&ensp;|--------Air France Case.pdf
-&ensp;|&ensp;&ensp;&ensp;&ensp;|--------Air France Internet Marketing.doc   
-&ensp;|&ensp;&ensp;&ensp;&ensp;|--------Air France Internet Marketing.xls
-&ensp;|&ensp;&ensp;&ensp;&ensp;|--------Answers.xls
+&ensp;|&ensp;&ensp;&ensp;&ensp;|--------Air France Case.pdf  
+&ensp;|&ensp;&ensp;&ensp;&ensp;|--------Air France Internet Marketing.doc     
+&ensp;|&ensp;&ensp;&ensp;&ensp;|--------Air France Internet Marketing.xls  
+&ensp;|&ensp;&ensp;&ensp;&ensp;|--------Answers.xls  
 
 ## File Notes
-1) Air France Case.pdf &ensp;&ensp;&ensp;&ensp;: the provided report
-2) Air France Internet Marketing.doc: project requirement
-3) Air France Internet Marketing.xls: Spreadsheet Supplement
-4) Answers.xls &ensp;&ensp;&ensp;&ensp;&ensp;: our solution. 
+1) Air France Case.pdf &ensp;&ensp;&ensp;&ensp;: the provided report  
+2) Air France Internet Marketing.doc: project requirement  
+3) Air France Internet Marketing.xls: Spreadsheet Supplement  
+4) Answers.xls &ensp;&ensp;&ensp;&ensp;&ensp;: our solution.   
 
 ## Summary:
 1) Objective: Analyze summarized campaign metrics to determine optimal strategy to pursue for each publisher.    
